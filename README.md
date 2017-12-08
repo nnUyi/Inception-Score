@@ -1,5 +1,5 @@
 # Inception-Score
-  Inception score script for measuring quality of images generating from GAN
+  - Inception score script for measuring quality of images generating from GAN
 
 # Method
 
@@ -32,12 +32,12 @@
 # Results
   
   - In this repo, you can easily get the result below:
-  <p align='center'>
-      |cifar10 images|
-      |:------------:|
-      |![Alt test](cifar10.png)|
-      |inception score:<br/> mean:2.1532264 </br> stddev:0.27045175||
-  </p>
+ 
+      |cifar10 images|cifar10 images|
+      |:------------:|:------------:|
+      |![Alt test](cifar10.png)|![Alt test](cifar10.png)|
+      |inception score:<br/> mean:2.1532264 </br> stddev:0.27045175|inception score:<br/> mean:2.1532264 </br> stddev:0.27045175||
+  
 # References
   - Code is derived from [openai/improved-gan](https://github.com/openai/improved-gan). Thanks all the way.
   

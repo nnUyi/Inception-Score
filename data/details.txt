@@ -1,0 +1,1 @@
+Samples stored in data directory are used to calculate inception score. Anyway, you can use your own images(like generating from GAN) to calculate the score.

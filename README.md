@@ -22,7 +22,7 @@
     $ cd Inception-Score
 
 ## load data
-   - In this repo, I provide 30 images sampled from cifar10. All the images are stored in the data directory(named [data]).
+   - In this repo, I provide 30 images sampled from cifar10. All the images are stored in the data directory(named **data**).
    
    - If you want to use your own data, images should be stored in data directory. And then launch the code.
 
